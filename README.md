@@ -17,7 +17,7 @@ This project is an **AI-powered meeting assistant** that automatically transcrib
 ### 1. Local Setup
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/thong6502/ai_meeting_assitance
    cd AI_meeting_assistance
    ```
 2. **Create a virtual environment (recommended):**
