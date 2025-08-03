@@ -1,5 +1,7 @@
 # AI Meeting Assistant
 
+![Demo](demo.gif)
+
 ## Overview
 This project is an **AI-powered meeting assistant** that automatically transcribes meeting audio, corrects financial terminology, and generates structured meeting minutes and actionable task lists. It leverages state-of-the-art technologies such as **Whisper (speech-to-text)**, **Gradio (user interface)**, and **large language models (LLMs)** to deliver accurate, organized, and insightful meeting documentation.
 
@@ -10,37 +12,6 @@ This project is an **AI-powered meeting assistant** that automatically transcrib
 - Generation of meeting minutes and a list of actionable tasks.
 - Simple, user-friendly web interface powered by Gradio.
 - Downloadable results as a text file.
-
-## Example Output
-```
-Here are the meeting minutes and a list of tasks based on the provided context:
-
----
-
-**Meeting Minutes**
-
-**Date:** [Insert Date of Meeting - e.g., October 26, 2023]
-**Attendees:** [Implied: Leadership Team, Stakeholders, Finance, Strategy]
-**Subject:** Quarterly Business Update & Strategic Outlook
-
-**Key Points Discussed:**
-- Risk Management & Capital Health: ...
-- Financial Forecast (Coming Quarter): ...
-- Strategic Initiatives: ...
-- Shareholder Confidence: ...
-
-**Decisions Made:**
-- No new explicit decisions were stated in this update. ...
-
----
-
-**Task List**
-- Task 1: Ongoing Risk Monitoring & Management ...
-- Task 2: Drive Revenue Growth from Key Solutions ...
-- Task 3: Finalize Pay Plus IPO Preparations ...
-- Task 4: Develop Post-IPO Growth Strategies ...
-- Task 5: Prepare Q3 Shareholder Communication ...
-```
 
 ## Installation
 ### 1. Local Setup
